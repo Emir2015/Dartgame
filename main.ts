@@ -206,3 +206,4 @@ myDart = darts.create(img`
 myDart.setTrace()
 myDart.controlWithArrowKeys(true)
 mySprite2.setPosition(112, 111)
+mySprite.setPosition(138, 15)
